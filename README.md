@@ -1,5 +1,6 @@
 # pwned-client
 
+[![GoDoc](https://godoc.org/github.com/masonschafercodes/pwned-client?status.svg)](https://godoc.org/github.com/masonschafercodes/pwned-client)
 [![Go Report Card](https://goreportcard.com/badge/github.com/masonschafercodes/pwned-client)](https://goreportcard.com/report/github.com/masonschafercodes/pwned-client)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/masonschafercodes/pwned-client/blob/master/LICENSE)
 
